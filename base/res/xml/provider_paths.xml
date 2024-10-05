@@ -1,0 +1,17 @@
+
+­
+9
+android*http://schemas.android.com/apk/res/androidpaths*
+   B*4
+,external-path"nameexternal"	path.*
+   ,*@
+8external-files-path"nameexternal_files"	path.*
+   8*.
+&
+cache-path"namecache"	path.*
+   &*@
+8external-cache-path"nameexternal_cache"	path.*
+   8*.
+&
+files-path"namefiles"	path.*	
+&

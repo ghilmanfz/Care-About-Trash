@@ -1,0 +1,15 @@
+
+
+9
+android*http://schemas.android.com/apk/res/android;com.google.android.material.internal.NavigationMenuItemView"L
+*http://schemas.android.com/apk/res/android	focusabletrue"(Ú„2:@"
+*http://schemas.android.com/apk/res/android
+foreground?attr/selectableItemBackground"(‰‚„2+
+)’ƒŒøattr/selectableItemBackground0"›
+*http://schemas.android.com/apk/res/androidlayout_height"?attr/listPreferredItemHeightSmall"(õ„21
+/İ‚Œø!attr/listPreferredItemHeightSmall0À€"`
+*http://schemas.android.com/apk/res/androidlayout_widthmatch_parent"(ô„2:0ÿÿÿÿÿÿÿÿÿ"—
+*http://schemas.android.com/apk/res/androidpaddingLeft"?attr/listPreferredItemPaddingLeft"(Ö„2/
+-Ş‚Œø!attr/listPreferredItemPaddingLeft0@"š
+*http://schemas.android.com/apk/res/androidpaddingRight#?attr/listPreferredItemPaddingRight"(Ø„20
+.ß‚Œø"attr/listPreferredItemPaddingRight0@
